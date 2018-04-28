@@ -1,0 +1,10 @@
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/bin/Debug/netcoreapp2.0/basic_13.deps.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/bin/Debug/netcoreapp2.0/basic_13.runtimeconfig.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/bin/Debug/netcoreapp2.0/basic_13.runtimeconfig.dev.json
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/bin/Debug/netcoreapp2.0/basic_13.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/bin/Debug/netcoreapp2.0/basic_13.pdb
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/obj/Debug/netcoreapp2.0/basic_13.csproj.CoreCompileInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/obj/Debug/netcoreapp2.0/basic_13.AssemblyInfoInputs.cache
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/obj/Debug/netcoreapp2.0/basic_13.AssemblyInfo.cs
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/obj/Debug/netcoreapp2.0/basic_13.dll
+/Users/wesleycowan/Desktop/DojoAssignments/netCore/basic_13/obj/Debug/netcoreapp2.0/basic_13.pdb
